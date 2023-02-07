@@ -22,3 +22,8 @@ Physical security
 Team
 - Trusted security team should be vetted through background checks, interviews with family and friends
 - Private keys which hold user data should have their seed phrase split using Shamir's sharing strategy, each backup needs to be secured in a location which is monitored, observed and secured 
+
+
+# Helpful Links
+
+- https://a16zcrypto.com/wallet-security-non-custodial-fallacy/
